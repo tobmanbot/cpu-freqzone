@@ -1,0 +1,7 @@
+{
+  "name": "CPU FreqZone",
+  "description": "Shows CPU frequency zone (idle/low/mid/high/boost), current frequency and temperature in the top bar.",
+  "uuid": "cpu-freqzone@tobmanbot",
+  "version": 1,
+  "shell-version": ["45", "46", "47", "48", "49", "50"]
+}

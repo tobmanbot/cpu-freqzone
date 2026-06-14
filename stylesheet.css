@@ -1,0 +1,38 @@
+.cpu-governor-label {
+    font-size: 12px;
+    padding: 0 4px;
+}
+
+.cpu-freqzone-menu {
+    padding: 4px 8px;
+}
+
+.cpu-freqzone-section-label {
+    font-size: 10px;
+    font-weight: bold;
+    color: #aaaaaa;
+    padding: 6px 4px 2px 4px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.cpu-freqzone-row {
+    padding: 2px 4px;
+}
+
+.cpu-freqzone-key {
+    font-size: 11px;
+    color: #888888;
+    min-width: 90px;
+}
+
+.cpu-freqzone-val {
+    font-size: 11px;
+    color: #eeeeee;
+    padding-left: 8px;
+}
+
+.cpu-freqzone-val-accent {
+    font-size: 11px;
+    padding-left: 8px;
+}
